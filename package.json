@@ -79,7 +79,7 @@
     "prop-types": "15.7.2",
     "ramda": "^0.26.1",
     "react": "^16.13.1",
-    "tomo-cli": "^1.5.9",
+    "tomo-cli": "^1.5.10",
     "update-notifier": "3.0.1"
   },
   "devDependencies": {
