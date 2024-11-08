@@ -79,8 +79,8 @@
     "prop-types": "15.7.2",
     "ramda": "^0.26.1",
     "react": "^16.13.1",
-    "tomo-cli": "^1.5.9",
-    "update-notifier": "3.0.1"
+    "tomo-cli": "^1.7.0",
+    "update-notifier": "4.0.0"
   },
   "devDependencies": {
     "@babel/cli": "7.6.2",
